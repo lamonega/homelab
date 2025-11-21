@@ -31,7 +31,7 @@ This repository documents my homelab infrastructure, designed to demonstrate Dev
 ### Current Setup (Phase 1)
 - **Node 1 (marcelo)**: Control Plane + Worker
   - IP: 192.168.5.11
-  - OS: Ubuntu Server 24.04 LTS
+  - OS: Debian 12.10
   - Role: etcd member, control-plane, worker
 
 ### Planned Expansion (Phase 2)
@@ -216,7 +216,7 @@ This is a learning project documenting my journey into DevOps and cloud-native t
 
 ## 📧 Contact
 
-Built by [Laureano Francisco Lamonega]  
+Built by **Laureano Francisco Lamonega**
 [LinkedIn](https://linkedin.com/in/lamonega) | [Email](mailto:lamonega@proton.me)
 
 ---
