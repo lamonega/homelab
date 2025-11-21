@@ -1,0 +1,33 @@
+# Kubernetes
+*.kubeconfig
+kubeconfig
+.kube/
+
+# Secrets (never commit these!)
+*secret*.yaml
+*token*.txt
+*.key
+*.pem
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Terraform (for future use)
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Ansible (for future use)
+*.retry
+.vault_pass
+
+# Logs
+*.log
